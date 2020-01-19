@@ -1,0 +1,1642 @@
+{
+  "intents": [
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "I'm bored"
+        },
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "What is your favorite joke?"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "Tell me something funny"
+        },
+        {
+          "text": "Another joke"
+        },
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "Do you have a joke?"
+        },
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Do you like fun?"
+        },
+        {
+          "text": "Can you tell a joke?"
+        }
+      ],
+      "description": "Request a joke."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "Unconscious_NBreathing",
+      "examples": [
+        {
+          "text": "unconscious but breathing"
+        },
+        {
+          "text": "They're not breathing"
+        },
+        {
+          "text": "No pulse"
+        },
+        {
+          "text": "hit the floor"
+        },
+        {
+          "text": "lying on the floor"
+        },
+        {
+          "text": "unconscious not breathing"
+        },
+        {
+          "text": "unconscious"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "What makes this chat trustworthy?"
+        },
+        {
+          "text": "Is this a trusted chat site?"
+        },
+        {
+          "text": "Is this an official chat?"
+        },
+        {
+          "text": "Is this conversation secure?"
+        },
+        {
+          "text": "Precautions hackers?"
+        },
+        {
+          "text": "Protection hacks?"
+        },
+        {
+          "text": "Secure conversation?"
+        },
+        {
+          "text": "What guards do you have in place to protect your customer's data?"
+        },
+        {
+          "text": "What safety measures are used to ensure that chat is secure?"
+        },
+        {
+          "text": "Will my conversation remain secured?"
+        },
+        {
+          "text": "Why would I trust this chat?"
+        },
+        {
+          "text": "Are you safe on hackers?"
+        },
+        {
+          "text": "Are you safe?"
+        },
+        {
+          "text": "Can I be sure that my stored card details are held securely?"
+        },
+        {
+          "text": "Conversation secure?"
+        },
+        {
+          "text": "Customer info secured?"
+        },
+        {
+          "text": "Do you have protection against hacks?"
+        },
+        {
+          "text": "How do I know if my card info is kept safe?"
+        },
+        {
+          "text": "How do I know this chat is not a scam?"
+        },
+        {
+          "text": "How is my credit card info secured?"
+        },
+        {
+          "text": "How safe is my data?"
+        },
+        {
+          "text": "I'd like proof of a secure chat"
+        },
+        {
+          "text": "In what way can I tell if my plastic is safe?"
+        },
+        {
+          "text": "Is my card info secure?"
+        },
+        {
+          "text": "Is my payment information secure?"
+        },
+        {
+          "text": "Is there a reason to distrust this chat?"
+        }
+      ],
+      "description": "Express concerns about the security of the bot."
+    },
+    {
+      "intent": "Heart_Attack_or_Angina",
+      "examples": [
+        {
+          "text": "heart attack"
+        },
+        {
+          "text": "angina"
+        },
+        {
+          "text": "Dizziness"
+        },
+        {
+          "text": "Fatigue"
+        },
+        {
+          "text": "No circulation"
+        },
+        {
+          "text": "Chest pain"
+        },
+        {
+          "text": "Light-headedness"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Burns",
+      "examples": [
+        {
+          "text": "tingling"
+        },
+        {
+          "text": "burning and hot"
+        },
+        {
+          "text": "red skin"
+        },
+        {
+          "text": "painful"
+        },
+        {
+          "text": "itchy"
+        },
+        {
+          "text": "bleeding"
+        },
+        {
+          "text": "can see the flesh and bones"
+        },
+        {
+          "text": "can see bones"
+        },
+        {
+          "text": "some blisters"
+        },
+        {
+          "text": "wet looking wound"
+        },
+        {
+          "text": "skin pale"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Choking",
+      "examples": [
+        {
+          "text": "hacking"
+        },
+        {
+          "text": "choking"
+        },
+        {
+          "text": "unable to breathe"
+        },
+        {
+          "text": "wheezing"
+        },
+        {
+          "text": "something stuck in throat"
+        },
+        {
+          "text": "coughing"
+        },
+        {
+          "text": "Call EMS immediately. If victim cannot cough or cheese, start doing back blows and J-strokes. For back blows, make the victim lean forward while using the heel of your hand to hit the back of the victim. Do this 10 times. For J-strokes, put both arms around the waist of the victim. Make a fist with one hand and use the other hand to cover the top of that fist and make upwards J motions on the belly. Do this 10 times as well. Repeat back blows and J-strokes until the object comes out or EMS arrives."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "Stroke",
+      "examples": [
+        {
+          "text": "TIA"
+        },
+        {
+          "text": "Face drooping"
+        },
+        {
+          "text": "Slurred speech"
+        },
+        {
+          "text": "Paralysis"
+        },
+        {
+          "text": "Unresponsive"
+        },
+        {
+          "text": "Loss of bladder control"
+        },
+        {
+          "text": "stroke"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "About you"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Why are you here?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What else can you help me with?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "Where can I find the frequently asked questions?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I hate you"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "Concussion",
+      "examples": [
+        {
+          "text": "getting very dizzy"
+        },
+        {
+          "text": "seeing stars"
+        },
+        {
+          "text": "hit head"
+        },
+        {
+          "text": "concussion"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "This is so cool"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "Cuts",
+      "examples": [
+        {
+          "text": "Clean the area as well as you can, then wrap a large triangular bandage around the wound. If you do not have this, use some old clothes and wrap it around the wound. If you it bleeds through the cloth, keep adding more layers without removing the previous cloth."
+        },
+        {
+          "text": "Rinse the cut under cold water, or dabble some cold water on the cut. Use rubbing alcohol to clean the wound. After that, put a bandage or some gauze over the affected area. "
+        },
+        {
+          "text": "papercut"
+        },
+        {
+          "text": "small cut"
+        },
+        {
+          "text": "There's a lot of blood"
+        },
+        {
+          "text": "large cut"
+        },
+        {
+          "text": "It's cut through the flesh"
+        },
+        {
+          "text": "It's a really deep cut"
+        },
+        {
+          "text": "It's a giant gash"
+        },
+        {
+          "text": "Blood is gushing out of the cut"
+        },
+        {
+          "text": "I have a cut"
+        },
+        {
+          "text": "cut"
+        },
+        {
+          "text": "I have a small cut"
+        },
+        {
+          "text": "I got scratched"
+        },
+        {
+          "text": "I have a gash"
+        },
+        {
+          "text": "I cut myself"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "Greeting",
+      "examples": [
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good afternoon"
+        },
+        {
+          "text": "Morning"
+        },
+        {
+          "text": "Good day"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Help",
+      "examples": [
+        {
+          "text": "I need help"
+        },
+        {
+          "text": "Help me"
+        },
+        {
+          "text": "I need assistance"
+        },
+        {
+          "text": "Help!"
+        },
+        {
+          "text": "I have a problem"
+        },
+        {
+          "text": "Help"
+        },
+        {
+          "text": "I have an emergency"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "unknown",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "idk",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "i don't know",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "unknown",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "deny",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "emergencies",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "stroke",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "cut",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "burn",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "unconscious",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "allergic reaction",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "anaphylaxis",
+          "synonyms": [
+            "anaphylactic shock"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "choking",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "angina",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "concussion",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "heart attack",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "affirmative",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Choking",
+            "options": [
+              {
+                "label": "Mild",
+                "value": {
+                  "input": {
+                    "text": "Encourage the victim to keep coughing to try and get rid of the object. "
+                  }
+                }
+              },
+              {
+                "label": "Severe",
+                "value": {
+                  "input": {
+                    "text": "Call EMS immediately. If victim cannot cough or wheeze, start doing back blows and J-strokes. For back blows, make the victim lean forward while using the heel of your hand to hit the back of the victim. Do this 10 times. For J-strokes, put both arms around the waist of the victim. Make a fist with one hand and use the other hand to cover the top of that fist and make upwards J motions on the belly. Do this 10 times as well. Repeat back blows and J-strokes until the object comes out or EMS arrives."
+                  }
+                }
+              }
+            ],
+            "description": "If you need additional help just type \"help\"",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_5_1579408171451",
+      "conditions": "#Choking",
+      "dialog_node": "response_7_1579408222358"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Concussion",
+            "options": [
+              {
+                "label": "Mild",
+                "value": {
+                  "input": {
+                    "text": "Drag the victim out of the light and do pupil dilation checks with a flashlight. Make sure you can see the pupils dilating. Check vitals (airway, breathing, and circulation) for at least 5 minutes. Make sure the victim is not exposed to too much light and they are sitting in a comfortable position, or lying down."
+                  }
+                }
+              },
+              {
+                "label": "Severe",
+                "value": {
+                  "input": {
+                    "text": "Call EMS, drag the victim out of the light and do pupil dilation checks with a flashlight. Make sure you can see the pupils dilating. Check vitals (airway, breathing, and circulation) until EMS arrives. Keep track of beats and breaths per minute to report back to the EMS officers. Make sure the victim is not exposed to too much light and they are sitting in a comfortable position, or lying down. "
+                  }
+                }
+              }
+            ],
+            "description": "If you need additional help just type \"help\"",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1579414048273",
+      "conditions": "#Concussion",
+      "dialog_node": "response_3_1579414048281"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Call EMS immediately. Put the victim in a comfortable position lying down (on the side that they can feel, or their preference). Monitor vital signs (airway, breathing, and circulation) and keep track of breaths and beats per minute until EMS arrives. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "If you need additional help just type \"help\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_11_1579414054923",
+      "conditions": "#Stroke",
+      "dialog_node": "response_15_1579414054929"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Call EMS immediately. Put the victim in a comfortable position and if they have aspirin or nitroglycerin tablets, assist them in taking the tablet(s)/pill(s). Monitor breaths and beats per minute until EMS arrives.  "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "If you need additional help just type \"help\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1579414051104",
+      "conditions": "#Heart_Attack_or_Angina",
+      "dialog_node": "response_9_1579414051112"
+    },
+    {
+      "type": "standard",
+      "title": "Choking",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_10_1579407774324"
+      },
+      "conditions": "#Choking",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1579408171451",
+      "previous_sibling": "node_5_1579407958776"
+    },
+    {
+      "type": "standard",
+      "title": "Concussion",
+      "output": {},
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_10_1579407774324"
+      },
+      "conditions": "#Concussion",
+      "dialog_node": "node_1_1579414048273",
+      "previous_sibling": "node_5_1579408171451"
+    },
+    {
+      "type": "standard",
+      "title": "Help",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sure, what is the medical emergency?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Help",
+      "dialog_node": "node_5_1579407958776",
+      "previous_sibling": "node_10_1579407774324"
+    },
+    {
+      "type": "standard",
+      "title": "Burns",
+      "output": {
+        "generic": [
+          {
+            "title": "Burns",
+            "options": [
+              {
+                "label": "1st Degree Burns",
+                "value": {
+                  "input": {
+                    "text": "Flush the affected area with cool (not cold) water. Do not put ice. Repeat the flushing until the heat has subsided."
+                  }
+                }
+              },
+              {
+                "label": "2nd Degree Burns",
+                "value": {
+                  "input": {
+                    "text": "Flush the affected area with cool (not cold) water. Do not put ice. Repeat the flushing until the heat has subsided. Apply a dry, sterile dressing to the wound. Treat for shock. Contact EMS if the burn area is too large."
+                  }
+                }
+              },
+              {
+                "label": "3rd Degree Burns",
+                "value": {
+                  "input": {
+                    "text": "Contact EMS immediately. Flush the affected area with cool (not cold) water. Do not put ice. Repeat the flushing until the heat has subsided. Apply a dry, sterile dressing to the wound. Treat for shock."
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_5_1579407958776"
+      },
+      "conditions": "#Burns",
+      "dialog_node": "node_1_1579410907408",
+      "previous_sibling": "node_9_1579409994571"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_1_1579410907408",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Heart Attack/Angina",
+      "output": {},
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_10_1579407774324"
+      },
+      "conditions": "#Heart_Attack_or_Angina",
+      "dialog_node": "node_6_1579414051104",
+      "previous_sibling": "node_1_1579414048273"
+    },
+    {
+      "type": "standard",
+      "title": "Cuts",
+      "output": {
+        "generic": [
+          {
+            "title": "Cuts",
+            "options": [
+              {
+                "label": "Minor",
+                "value": {
+                  "input": {
+                    "text": "Rinse the cut under cold water, or dabble some cold water on the cut. Use rubbing alcohol to clean the wound. After that, put a bandage or some gauze over the affected area. "
+                  }
+                }
+              },
+              {
+                "label": "Major",
+                "value": {
+                  "input": {
+                    "text": "Clean the area as well as you can, then wrap a large triangular bandage around the wound. If you do not have this, use some old clothes and wrap it around the wound. If you it bleeds through the cloth, keep adding more layers without removing the previous cloth."
+                  }
+                }
+              }
+            ],
+            "description": "Minor (Paper cuts, small cuts, skin peeling, etc.)  Major - (Large gashes, large cuts, stab wound, etc.)",
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "If you need additional help just type \"help\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_5_1579407958776"
+      },
+      "conditions": "#Cuts",
+      "dialog_node": "node_9_1579409994571",
+      "previous_sibling": "node_5_1579409287952"
+    },
+    {
+      "type": "standard",
+      "title": "Unconscious",
+      "output": {
+        "generic": [
+          {
+            "title": "Unconscious",
+            "options": [
+              {
+                "label": "< 1 year old (Unconscious, not-breathing)",
+                "value": {
+                  "input": {
+                    "text": "Call 911 immediately. Place two fingers between the nipples. Push down with your fingers and do 30 compressions. After the 30 compressions, do two breaths, making sure there is nothing blocking the airway. If a breath comes back up, readjust the head and give another breath. If you can still feel the breath, continue doing compressions. If you don't feel the breath, do another one, then continue compressions. Repeat the compressions and breaths until an AED or EMS arrives. "
+                  }
+                }
+              },
+              {
+                "label": "1-8 years old (Unconscious, not-breathing)",
+                "value": {
+                  "input": {
+                    "text": "Call 911 immediately. Place one hand between the nipples, or two hands, one hand on top of the other, depending on the size of the child. Press down at least 2 inches and do 30 compressions. After this, make sure that there is nothing blocking the airway and do two breaths. If a breath comes back up, readjust the head and give another breath. If you can still feel the breath, continue doing compressions. If you don't feel the breath, do another one, then continue compressions. Repeat compressions and breaths until an AED or EMS arrives."
+                  }
+                }
+              },
+              {
+                "label": "> 8 years old (Unconscious, not-breathing)",
+                "value": {
+                  "input": {
+                    "text": "Call 911 immediately. Place one hand between the nipples and put the other hand on top of that hand. Press down at least 2 inches and do 30 compressions. After this, make sure that there is nothing blocking the airway and do two breaths. If a breath comes back up, readjust the head and give another breath. If you can still feel the breath, continue doing compressions. If you don't feel the breath, do another one, then continue compressions. Repeat compressions and breaths until an AED or EMS arrives."
+                  }
+                }
+              },
+              {
+                "label": "Unconscious, Breathing",
+                "value": {
+                  "input": {
+                    "text": "Call 911 immediately. Lay the victim down in semi prone position (raise one arm and roll the victim on that side and bend the opposite leg). Monitor vitals (airway, breathing, and circulation) and remember to keep track of breaths and beats per minute until EMS arrives. "
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "values": [
+              {
+                "text": "If you need additional help just type \"help\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_5_1579407958776"
+      },
+      "conditions": "#Unconscious_NBreathing",
+      "dialog_node": "node_5_1579409287952",
+      "previous_sibling": "node_11_1579414054923"
+    },
+    {
+      "type": "standard",
+      "title": "Stroke",
+      "output": {},
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_10_1579407774324"
+      },
+      "conditions": "#Stroke",
+      "dialog_node": "node_11_1579414054923",
+      "previous_sibling": "node_6_1579414051104"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome to MedBot! What can I help you with today?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "node_10_1579407774324"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Medical Chat Skill",
+  "language": "en",
+  "description": ""
+}
